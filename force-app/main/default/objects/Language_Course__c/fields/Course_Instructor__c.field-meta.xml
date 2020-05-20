@@ -7,7 +7,7 @@
     <referenceTo>Language_Course_Instructor__c</referenceTo>
     <relationshipLabel>Language Courses</relationshipLabel>
     <relationshipName>Language_Courses</relationshipName>
-    <relationshipOrder>1</relationshipOrder>
+    <relationshipOrder>0</relationshipOrder>
     <reparentableMasterDetail>false</reparentableMasterDetail>
     <trackTrending>false</trackTrending>
     <type>MasterDetail</type>
